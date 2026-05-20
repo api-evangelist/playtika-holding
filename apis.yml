@@ -19,6 +19,10 @@ modified: '2026-05-04'
 specificationVersion: '0.19'
 apis: []
 common:
+  - type: GitHubOrganization
+    url: https://github.com/PlaytikaOSS
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/playtika
   - type: Website
     url: https://www.playtika.com
   - type: Careers
