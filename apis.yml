@@ -19,6 +19,10 @@ modified: '2026-05-04'
 specificationVersion: '0.19'
 apis: []
 common:
+  - type: VulnerabilityDisclosure
+    url: security/playtika-holding-vulnerability-disclosure.yml
+  - type: DomainSecurity
+    url: security/playtika-holding-domain-security.yml
   - type: GitHubOrganization
     url: https://github.com/PlaytikaOSS
   - type: LinkedIn
@@ -27,6 +31,8 @@ common:
     url: https://www.playtika.com
   - type: Careers
     url: https://www.playtika.com/careers/
+  - url: https://news.playtika.com/press-releases?pagetemplate=rss
+    type: Blog
 maintainers:
   - FN: API Evangelist
     url: https://apievangelist.com
